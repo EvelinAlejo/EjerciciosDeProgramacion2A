@@ -1,3 +1,4 @@
+// esta es la actividAD DE CLINICA 
 class PersonalMedico {
     static registro = []; // Arreglo estático
     

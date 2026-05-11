@@ -1,0 +1,13 @@
+{
+  "name": "sistema-bancario",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Sistema bancario con POO y módulos en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
