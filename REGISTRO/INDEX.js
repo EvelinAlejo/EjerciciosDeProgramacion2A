@@ -1,3 +1,8 @@
+//integrantes: 
+// Evelin Angeles alejo estrada
+// ademir flores hernandez
+//jehu diego cruz cruz n
+
 import prompt from 'prompt-sync'
 import { Participante } from "./PARTICIPANTE.js"
 import { SistemaCurso } from "./SISTEMACURSO.js"
@@ -11,7 +16,7 @@ function registrarDatos() {
     
     const nombre = promptSync("Ingresa nombre: ")
     
-    let edad
+    let edad // aqui esta 
     while (true) {
         try {
             edad = parseInt(promptSync("Ingresa edad: "))
